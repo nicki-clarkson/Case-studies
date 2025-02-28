@@ -1,13 +1,10 @@
 project:
   title: "Case-studies"
   type: website
-  output-dir: docs
-  render: 
-    - index.qmd
-
+  output-dir: .
 website: 
   title: "Case studies for Open Access sessions"
-  repo-url: https://nicki-clarkson.github.io/Case-studies
+  repo-url: https://nicki-clarkson.github.io/Case-studies/
   repo-branch: main
   repo-actions:
   - edit
@@ -18,8 +15,6 @@ website:
     contents:
       - href: index.qmd
         text: "Introduction"
-      - href: Case-study-1.qmd
-        text: "Case study 1"
   page-footer: "Created by the University of Southampton Library with a CC0 licence"
         
 format: 
