@@ -2,6 +2,8 @@ project:
   title: "Case-studies"
   type: website
   output-dir: .
+  render: 
+    - index.qmd
 website: 
   title: "Case studies for Open Access sessions"
   repo-url: https://nicki-clarkson.github.io/Case-studies/
