@@ -4,30 +4,34 @@ project:
   output-dir: .
   render: 
     - index.qmd
-website: 
+    - case-study-1-outline.qmd
+    - case-study-1-challenges.qmd
+    - case-study-1-suggestions.qmd
+website:
   title: "Case studies for Open Access sessions"
   repo-url: https://nicki-clarkson.github.io/Case-studies/
   repo-branch: main
   repo-actions:
-  - edit
-  - issue
-  sidebar: 
-    style: docked
-    search: true
+    - edit
+    - issue
+  sidebar:
+    style: "docked" # Or "floating"
     contents:
       - href: index.qmd
         text: "Introduction"
+      - href: case-study-1-outline.qmd
+        text: "Case study 1: outline"
+      - href: case-study-1-challenges.qmd
+        text: "Case study 1: open access challenges"
+      - href: case-study-1-suggestions.qmd
+        text: "Case study 1: suggestions to overcome challenges"
   page-footer: "Created by the University of Southampton Library with a CC0 licence"
-        
-format: 
-  html: 
+format:
+  html:
     link-external-newwindow: true
     link-external-icon: true
     theme:
       light: cosmo
       dark: darkly
-    toc: true
-    toc-depth: 3
-    toc-expand: true
     standalone: true
 editor: visual

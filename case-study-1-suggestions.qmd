@@ -1,0 +1,51 @@
+---
+title: "Case study 1: Suggestions for Overcoming Challenges"
+---
+
+**Copyright and Intellectual Property:**
+
+-   Prioritize securing open access licenses (e.g., Creative Commons) for all digital content.
+
+-   Develop clear and transparent copyright policies and procedures.
+
+-   Negotiate agreements with rights holders for non-commercial open access use.
+
+-   Anonymise or pseudononymise sensitive data in oral history recordings where appropriate.
+
+**Technical Infrastructure and Sustainability:**
+
+-   Utilize institutional repositories or open access platforms for long-term storage and preservation.
+
+-   Adopt open source software and file formats to minimize dependency on proprietary technologies.
+
+-   Develop a sustainability plan that includes regular data backups, format migration, and ongoing maintenance.
+
+-   Use cloud based storage solutions that have redundancy.
+
+**Data Management and Metadata:**
+
+-   Employ standardized metadata schemas (e.g., Dublin Core) and controlled vocabularies.
+
+-   Develop a comprehensive data management plan that outlines metadata creation, storage, and preservation procedures.
+
+-   Utilize metadata tools and services to automate metadata creation and validation.   
+
+**Accessibility and Usability:**
+
+-   Adhere to WCAG guidelines for web accessibility.
+
+-   Provide alternative text descriptions for images and multimedia content.
+
+-   Offer multiple language options and user interface customization features.
+
+-   Test the website with users with disabilities.
+
+**Ethical Considerations:**
+
+-   Consult with community stakeholders and experts in ethical research practices.
+
+-   Develop clear guidelines for data use and reuse.
+
+-   Provide contextual information and disclaimers to address potential misinterpretations.
+
+-   Ensure that consent forms for oral histories are robust and cover all potential uses of the data.

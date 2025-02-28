@@ -1,0 +1,35 @@
+# **Case study 1: Challenges to Open Access** {#sec-cs1challenges}
+
+**Copyright and Intellectual Property:**
+
+-   Many historical documents and photographs were held in private collections or by local historical societies, requiring complex copyright clearance.
+
+-   Oral history recordings involved informed consent issues and potential restrictions on public access to sensitive personal information.
+
+-   3D reconstructions required attribution to the software used, and the photogrammetry models could contain elements of intellectual property.
+
+**Technical Infrastructure and Sustainability:**
+
+-   Hosting high-resolution images, 3D models, and interactive elements required significant server space and bandwidth.
+
+-   Ensuring long-term accessibility of digital content in rapidly evolving technological environments was a concern.
+
+-   The software used to create the 3D models might become obsolete.
+
+**Data Management and Metadata:**
+
+-   Creating consistent and comprehensive metadata for diverse digital objects was time-consuming and required specialised knowledge.
+
+-   Ensuring interoperability with existing digital archives and repositories was crucial for discoverability.
+
+**Accessibility and Usability:**
+
+-   Designing an accessible online exhibition for users with disabilities required careful consideration of web accessibility guidelines (WCAG).
+
+-   Translating the exhibition content into multiple languages to reach a wider audience was a desired but resource-intensive goal.
+
+**Ethical Considerations:**
+
+-   The representation of the former workers, and the impact of the industry on the local environment, needed to be handled with sensitivity.
+
+-   The potential for misinterpretation or misuse of historical data was a concern.
