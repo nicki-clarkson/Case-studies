@@ -4,7 +4,6 @@ project:
   output-dir: docs
   render: 
     - index.qmd
-    - Case-study-1.qmd
 
 website: 
   title: "Case studies for Open Access sessions"
@@ -18,7 +17,7 @@ website:
     search: true
     contents:
       - href: index.qmd
-        text: Introduction
+        text: "Introduction"
       - href: Case-study-1.qmd
         text: "Case study 1"
   page-footer: "Created by the University of Southampton Library with a CC0 licence"

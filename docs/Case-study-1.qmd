@@ -1,0 +1,19 @@
+---
+title: "Case-studies"
+---
+
+## Case Study 1: "Echoes of Industry: A Digital Exploration of Regional Textile Heritage"
+
+Dr Alyx Nova, an Early Career Researcher in Cultural Heritage Studies, curated an exhibition titled "Echoes of Industry: A Digital Exploration of Regional Textile Heritage." This exhibition aimed to showcase the rich history of the local textile industry, focusing on the social and technological changes it underwent over two centuries.
+
+**Exhibition Components:**
+
+-   **Digital Archive:** A collection of high-resolution photographs of textile samples, historical documents (factory records, personal letters), and oral history recordings of former textile workers.
+
+-   **3D Reconstructions:** Virtual models of historical textile machinery and factory interiors, created using photogrammetry and CAD (Computer Aided Design) software.
+
+-   **Interactive Timeline:** A digital timeline allowing users to explore the evolution of the industry through interactive maps, data visualisations, and multimedia content.
+
+-   **Online Exhibition Catalogue:** A detailed catalogue with scholarly essays, object descriptions, and contextual information.
+
+-   **Virtual Tour:** A 360-degree virtual tour of the physical exhibition space, allowing remote access.
