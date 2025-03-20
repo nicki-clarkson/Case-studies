@@ -1,51 +1,31 @@
----
-title: "Case study 1: Suggestions for Overcoming Challenges"
----
+# **Case study 1:** Suggestions for Overcoming Challenges {#sec-cs1suggestions}
 
-**Copyright and Intellectual Property:**
+**Overall considerations:**
 
--   Prioritize securing open access licenses (e.g., Creative Commons) for all digital content.
+-   Plan from the beginning of your project how you could make the research outputs as open as possible, and as closed as necessary for the long-term. What research outputs are you intending to produce? Have open conversations with your co-creators and document your agreed decisions.
 
--   Develop clear and transparent copyright policies and procedures.
+**Ethics, Copyright and Intellectual Property:**
+
+-   Consider from the outset how others could build upon your work. Develop clear guidelines for data use and reuse.
+
+-   Prioritise securing open access licenses (e.g. [Creative Commons](https://creativecommons.org/share-your-work/)) for digital content. Are [other licenses](https://opensource.org/licenses) more appropriate for software?
 
 -   Negotiate agreements with rights holders for non-commercial open access use.
 
--   Anonymise or pseudononymise sensitive data in oral history recordings where appropriate.
+-   Ensure that consent forms for oral histories are robust and cover all potential uses of the data. Is it appropriate to share the recordings or transcripts?
 
 **Technical Infrastructure and Sustainability:**
 
--   Utilize institutional repositories or open access platforms for long-term storage and preservation.
+-   Use institutional repositories or open access platforms for long-term storage, access and preservation. Talk to you supervisor and your library for guidance at an early stage in your planning.
 
--   Adopt open source software and file formats to minimize dependency on proprietary technologies.
+-   Adopt open source software and file formats to minimise dependency on proprietary technologies.
 
 -   Develop a sustainability plan that includes regular data backups, format migration, and ongoing maintenance.
 
--   Use cloud based storage solutions that have redundancy.
-
-**Data Management and Metadata:**
-
--   Employ standardized metadata schemas (e.g., Dublin Core) and controlled vocabularies.
+**Data Management, Metadata, Accessibility and Usability:**
 
 -   Develop a comprehensive data management plan that outlines metadata creation, storage, and preservation procedures.
 
--   Utilize metadata tools and services to automate metadata creation and validation.   
+-   Ensure the metadata provides all the context required for users to understand and contextualise your data.
 
-**Accessibility and Usability:**
-
--   Adhere to WCAG guidelines for web accessibility.
-
--   Provide alternative text descriptions for images and multimedia content.
-
--   Offer multiple language options and user interface customization features.
-
--   Test the website with users with disabilities.
-
-**Ethical Considerations:**
-
--   Consult with community stakeholders and experts in ethical research practices.
-
--   Develop clear guidelines for data use and reuse.
-
--   Provide contextual information and disclaimers to address potential misinterpretations.
-
--   Ensure that consent forms for oral histories are robust and cover all potential uses of the data.
+Next section: [Case study 2](case-study-2.qmd#sec-cs2)

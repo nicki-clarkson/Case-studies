@@ -33,3 +33,5 @@
 -   The representation of the former workers, and the impact of the industry on the local environment, needed to be handled with sensitivity.
 
 -   The potential for misinterpretation or misuse of historical data was a concern.
+
+Next section: [Case study 1: Suggestions for Overcoming Challenges](case-study-1-outline.qmd#sec-cs1suggestions)

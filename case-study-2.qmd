@@ -1,0 +1,21 @@
+# Case Study 2: Future Coastal Resilience: Adapting to Rising Sea Levels in the UK {#sec-cs2}
+
+**Authors: Researchers from the Institute for Research, UK**
+
+Commissioning body: The UK Department for Climate Change
+
+### Overview
+
+**Summary:** A team of researchers from the Institute for Research was commissioned by the UK Department for Climate Change to produce a report titled Climate Resilience in UK Coastal Communities: Policy Recommendations for 2050. The report provided an in-depth analysis of the vulnerability of coastal towns to climate change, integrating meteorological data, economic projections, and social resilience assessments. It offered policy recommendations for infrastructure investment, community engagement strategies, and legislative reforms to mitigate climate risks. The report was submitted to to the Department for Climate Change and subsequently used as a basis for governmental decision-making. While the research team was keen to make the report publicly available, several challenges prevented immediate open access publication.
+
+**Intended Audience:** Government policymakers, local authorities and environmental agencies.
+
+The report was not suitable for publication as a journal article for the following reasons:
+
+-   Length and depth: academic journals impose strict word limits, while this government report consisted of over 200 pages of technical analysis, appendices, and policy recommendations.
+
+-   Audience and purpose: this report was designed for policymakers and stakeholders rather than for an academic audience, requiring different structuring and language.
+
+-   Timeliness of policy recommendations: journals have long peer-review cycles, whereas this government report needed to influence policy in real time.
+
+**What challenges can you think of in making the report open access? How could these be addressed?**

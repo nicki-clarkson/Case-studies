@@ -1,0 +1,97 @@
+---
+title: "Case study 1: metadata suggestions"
+---
+
+### **1. General Metadata**
+
+-   **Title:** *Echoes of Industry: A Digital Exploration of Regional Textile Heritage*
+
+-   **Creator(s):** Dr. Alyx Nova (University of Fictus)
+
+-   **Institutional Affiliation:** University of Fictus
+
+-   **Date of Creation/Publication:** \[Specify Date\]
+
+-   **Language:** \[Specify language(s) used\]
+
+-   **Keywords:** Textile heritage, industrial history, digital humanities, photogrammetry, oral history, virtual exhibition
+
+-   **Abstract/Summary:** A brief description of the exhibition's aims, scope, and significance
+
+### **2. Digital Archive Metadata**
+
+-   **Object Type:** (e.g., textile samples, historical documents, oral history recordings)
+
+-   **Title/Description:** Name of the object and a short description
+
+-   **Creator/Source:** Who created the original object or document
+
+-   **Date of Origin:** When the object/document was originally produced
+
+-   **Format:** (e.g., JPEG for images, WAV/MP3 for audio, PDF for documents)
+
+-   **Rights & Licensing:** Copyright or access permissions (e.g., Creative Commons license, institutional ownership)
+
+-   **Provenance:** History of the item’s ownership and acquisition
+
+### **3. 3D Reconstructions Metadata**
+
+-   **Title:** Name of the reconstructed machine or factory interior
+
+-   **Source Material:** Archival blueprints, historical photographs, existing physical models
+
+-   **Software Used:** (e.g., Agisoft Metashape, Blender, AutoCAD)
+
+-   **Creator(s):** Individuals or teams responsible for the reconstruction
+
+-   **File Format:** (e.g., OBJ, STL, GLB)
+
+-   **Access Information:** Whether the models are downloadable or viewable in-browser
+
+-   **Rights & Licensing:** Usage permissions and attribution requirements
+
+### **4. Interactive Timeline Metadata**
+
+-   **Title:** (e.g., "The Evolution of the Regional Textile Industry")
+
+-   **Content Type:** (e.g., maps, charts, historical narratives, multimedia)
+
+-   **Data Sources:** Archival records, census data, historical publications
+
+-   **Technical Framework:** Software or platform used (e.g., TimelineJS, StoryMap)
+
+-   **Interactivity Features:** (e.g., clickable hotspots, embedded video/audio)
+
+-   **Attribution & Citations:** References for all included data
+
+### **5. Online Exhibition Catalogue Metadata**
+
+-   **Title:** (e.g., "Echoes of Industry: Exhibition Catalogue")
+
+-   **Author(s)/Contributors:** Scholars, researchers, writers involved
+
+-   **Publication Date:** Date of release
+
+-   **Format:** (e.g., PDF, EPUB, HTML)
+
+-   **Table of Contents:** Listing of essays, object descriptions, and other sections
+
+-   **DOI/Persistent Identifier:** For citation and long-term access
+
+-   **ISBN (if applicable):** If formally published
+
+-   **License & Access:** Open access, free access or paywalled?
+
+### **6. Virtual Tour Metadata**
+
+-   **Title:** (e.g., "360° Tour of the Textile Heritage Exhibition"
+
+-   **Technology Used:** (e.g., Matterport, Google VR, custom-built platform)
+
+-   **Navigation Features:** (e.g., clickable info points, embedded narration)
+
+-   **Media Format:** (e.g., 360-degree images, interactive web interface)
+
+-   **Access Information:** Public, restricted, or institution-only
+
+-   **Rights & Licensing:** Terms of use and reproduction permissions
