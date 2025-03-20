@@ -26,7 +26,7 @@ website:
         text: "Case study 1: open access challenges"
       - href: case-study-1-suggestions.qmd
         text: "Case study 1: suggestions to overcome challenges"
-      - href: case-study-2-qmd
+      - href: case-study-2.qmd
         text: "Case study 2"
   page-footer: "Created by the University of Southampton Library with a CC0 licence"
 format:
