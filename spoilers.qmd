@@ -1,0 +1,201 @@
+# Spoilers for Case Studies 2, 3 and 4 {#sec-spoilers}
+
+Here are some of the challenges to making the research outputs in the case studies openly available, along with suggestions for solutions.
+
+Let's just check: are you meant to be reading this page, or are you meant to be reflecting/discussing the challenges and solutions that YOU think of? If you are, please go back and read the appropriate case study, then identify at least one challenge and potential solution that you come up with before returning to this page.
+
+If you are ready to read on, remember that this is not a comprehensive list. You may have thought of additional challenges or better solutions than are listed here.
+
+**Case Study 2 reflections**
+
+::: {.callout-caution collapse="true"}
+## Click to reveal
+
+The government department and the Institute for Research should create a clear plan for open access publication at the beginning of the research project, considering long term findability and accessibility.
+
+Both parties should work together to address copyright, data sensitivity, and timing of full release.
+
+Make the underlying data sets available in an open access data repository (following an embargo if required), with appropriate anonymisation and metadata. Balancing the need for transparency with concerns about data misuse is a key challenge.
+
+Provide clear documentation and licensing to facilitate data reuse.
+
+A joint press release and public engagement strategy can help to ensure that the report's findings are communicated effectively. This may include publishing a condensed version of the report in an open-access format, summarising key findings without including sensitive data.
+
+While the full report was unsuitable for journal publication, the researchers could extract specific elements (eg case studies or methodological insights) and submit them as papers.
+:::
+
+**Case study 3 reflections**
+
+::: {.callout-caution collapse="true"}
+## Click to reveal
+
+## Specific Challenges
+
+**Software Obsolescence and Platform Dependence**
+
+Mobile apps are inherently dependent on operating system updates and platform compatibility. As iOS and Android evolve, the game could become incompatible with newer devices.
+
+Maintaining the game's functionality and addressing bugs requires ongoing software development, which can be costly and time-consuming.
+
+The game's reliance on third-party software development kits (SDKs) and APIs poses a risk of future incompatibility or discontinuation.
+
+**Data Privacy and Security**
+
+"Stride City" collects and stores personal health data, raising significant concerns about data privacy and security.
+
+Ensuring compliance with data protection regulations (e.g., GDPR) requires robust security measures and transparent data handling practices.
+
+Long-term storage and management of user data require secure and reliable infrastructure.
+
+**Server Maintenance and Hosting**
+
+The game's online features, such as social interactions and data synchronisation, rely on server infrastructure.
+
+Maintaining server uptime, bandwidth, and security requires ongoing financial and technical resources.
+
+The cost of server maintenance can be a significant barrier to long-term open access.
+
+**Accessibility and Usability**
+
+Ensuring the game is accessible to individuals with disabilities requires careful consideration of design and development.
+
+Maintaining compatibility with assistive technologies and providing alternative input methods can be challenging.
+
+The game's user interface and gameplay mechanics need to be intuitive and engaging for a diverse audience.
+
+**Funding and Sustainability**
+
+Securing ongoing funding for maintenance, updates, and server costs is crucial for long-term sustainability.
+
+Developing a sustainable business model or exploring alternative funding sources is essential.
+
+There is a need to make the game's code available in an open source format, and to allow for community contributions.
+
+**Research Data and Code Availability**
+
+The underlying code, and the research data collected by the game, should be made available in accordance with BBSRC open access rules.
+
+This requires careful documentation, and the creation of repositories.
+
+Ethical procedures must be followed in relation to user data.
+
+## Strategies and Solutions
+
+**Open Source Release**
+
+Release the game's source code under an open-source license, allowing for community contributions and future development.
+
+Create a community forum or repository for developers to collaborate and share updates.
+
+**Platform-Independent Development**
+
+Consider developing a web-based version of the game that can be accessed across multiple platforms and devices.
+
+Use cross-platform development tools to minimize platform dependence.
+
+**Data Anonymisation and Secure Storage**
+
+Implement robust data anonymisation techniques to protect user privacy.
+
+Use secure cloud storage services with encryption and access controls.
+
+Develop a clear data retention policy and obtain informed consent from users.
+
+University Infrastructure
+
+Use the university's IT infrastructure for server hosting and maintenance, if possible.
+
+Explore collaborations with other research institutions to share server resources.
+
+**Documentation and Metadata**
+
+Create comprehensive documentation of the game's code, architecture, and data structures.
+
+Use standardised metadata to describe the game and its research outputs.
+
+Deposit code and data within university or national repositories.
+
+**Community Engagement**
+
+Actively engage with the user community to gather feedback and suggestions for improvements.
+
+Organize workshops and hackathons to encourage community contributions.
+
+**Funding Diversification**
+
+Explore partnerships with public health organizations, charities, or commercial entities to secure ongoing funding.
+
+Investigate grant opportunities for open-source software development and digital health initiatives.
+
+**Ethical Oversight**
+
+Ensure that all data handling and research practices are reviewed and approved by an ethics committee.
+
+Maintain transparency with users about data collection and usage.
+:::
+
+**Case study 4 reflections**
+
+::: {.callout-caution collapse="true"}
+## Click to reveal
+
+## Challenges
+
+**Ephemeral Nature of Gallery Webpages**
+
+The university's gallery website, like many such sites, was designed for short-term exhibition promotion. Once the exhibition closed, the page was archived, reducing its discoverability and long-term accessibility.
+
+The dynamic, interactive elements of the exhibition's online map proved difficult to permanently archive. University web servers are not always designed for indefinite hosting of this type of material.
+
+Copyright and Intellectual Property
+
+The exhibition incorporated archival photographs, audio recordings, and social media data, all with potential copyright implications.
+
+Obtaining clear permissions for long-term online display of these materials proved challenging, particularly for older archival images and social media content.
+
+The participants in the oral recordings, also needed to have thier data secured and their permissions for use handled in a sensitive mannor.
+
+**Preservation of Interactive and Immersive Elements**
+
+Translating the immersive experience of the physical exhibition into a static online format was problematic.
+
+The tactile and sensory aspects of the installations were lost in digital documentation, such as photographs and videos.
+
+Maintaining the functionality of the online interactive map, and the data stored on it, was technically demanding and raised questions about long term data storage.
+
+**Maintaining Research Integrity**
+
+As time passed, web links broke, code became outdated, and online interactive elements degraded, the quality of the research output risked being diminished.
+
+Accurate and contextual information was vital, in order that the research, when viewed in the future, could be fully understood.
+
+## Strategies and Solutions
+
+**Dedicated Project Website**
+
+A dedicated, independent website was created to host the exhibition's core documentation, including high-resolution photographs, video walkthroughs, and excerpts from the audio installations.
+
+The website was designed with long-term accessibility in mind, using stable URLs and adhering to web accessibility guidelines.
+
+**Creative Commons Licensing**
+
+The researchers adopted Creative Commons licenses for their own work, facilitating wider dissemination and reuse.
+
+Efforts were made to clarify copyright ownership of archival materials and obtain necessary permissions for online display.
+
+**Archival Documentation**
+
+High-quality video documentation of the entire exhibition was created, capturing the spatial layout, interactive elements, and visitor engagement.
+
+Detailed exhibition catalogues and digital archives were created, including metadata to ensure long-term preservation and discoverability.
+
+**Data Preservation**
+
+The data from the interactive online map was archived using agreed standards, and a static version of the map was produced to counter act the loss of live functionality.
+
+Robust procedures were employed to ensure data protection for the oral history participants.
+
+**University Digital Repository**
+
+The University's digital repository was used to host the core research outputs, providing a stable and accessible archive.
+:::

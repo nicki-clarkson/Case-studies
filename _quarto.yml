@@ -10,6 +10,7 @@ project:
     - case-study-2.qmd
     - case-study-3.qmd
     - case-study-4.qmd
+    - spoilers.qmd
 website:
   title: "Case studies for Open Access sessions"
   repo-url: https://nicki-clarkson.github.io/Case-studies/
@@ -34,6 +35,8 @@ website:
         text: "Case study 3"
       - href: case-study-4.qmd
         text: "Case study 4"
+      - href: spoilers.qmd
+        text: "Spoilers!"
   page-footer: "Created by the University of Southampton Library with a CC0 licence"
 format:
   html:
