@@ -1,0 +1,55 @@
+# Case Study 4: "Ephemeral Echoes: Mapping Transient Memories" {#sec-cs4}
+
+**Project Overview:**
+
+Dr Cat Hair, a visual artist and researcher at the University of Knowledge, was awarded an Arts and Sciences Research Council (ASRC) grant to explore the intersection of personal memory, digital archiving, and the physicality of urban landscapes. The project, titled "Ephemeral Echoes: Mapping Transient Memories," involved collecting oral histories from residents of a rapidly gentrifying district, juxtaposing them with archival photography and found objects. Hair then created a series of site-specific installations, digital projections, and interactive soundscapes, all culminating in a physical exhibition hosted at the University's on-campus gallery, the Meridian Space, for a two-month period.
+
+**Exhibition Content:**
+
+The exhibition featured:
+
+-   **Oral History Audio Installations:** Participants’ voices, layered with ambient city sounds, were played through concealed speakers within architectural models of the district.
+
+-   **Digital Projections:** Archival photographs of the area were manipulated and projected onto transparent screens, overlaid with real-time data visualizations of social media mentions.
+
+-   **"Memory Maps":** Large-scale, tactile maps of the district, where visitors could attach personal notes and objects, creating a collective memory archive.
+
+-   **Found Object Display:** A curated collection of discarded objects from the district, each with a recorded audio anecdote relating to it.
+
+-   **Online Interactive Map:** An accompanying website, accessible via QR codes within the gallery, featuring a digital map where visitors could contribute their own stories and images.
+
+**The Open Access Challenge:**
+
+The "Ephemeral Echoes" exhibition was a resounding success, attracting a diverse audience and generating significant critical acclaim. However, as the physical exhibition closed, the challenge of maintaining its accessibility became apparent.
+
+**Specific Challenges:**
+
+**Ephemeral Nature of Gallery Webpages**
+
+The university's gallery website, like many such sites, was designed for short-term exhibition promotion. Once the exhibition closed, the page was archived, diminishing its discoverability and long-term accessibility.
+
+The dynamic, interactive elements of the exhibition's online map proved difficult to permanently archive. University web servers are not always designed for indefinite hosting of this type of material.
+
+**Copyright and Intellectual Property**
+
+The exhibition incorporated archival photographs, audio recordings, and social media data, all with potential copyright implications.
+
+Obtaining clear permissions for long-term online display of these materials proved challenging, particularly for older archival images and social media content.
+
+The participants in the oral recordings, also needed to have their data secured and their permissions for use handled in a sensitive manner.
+
+**Preservation of Interactive and Immersive Elements**
+
+Translating the immersive experience of the physical exhibition into a static online format was problematic.
+
+The tactile and sensory aspects of the installations were lost in digital documentation, such as photographs and videos.
+
+Maintaining the functionality of the online interactive map, and the data stored on it, was technically demanding and raised questions about long term data storage.
+
+**Maintaining Research Integrity**
+
+As time passed, web links broke, code became outdated, and online interactive elements degraded, the quality of the research output risked being diminished. 
+
+Accurate and contextual information was vital, in order that the research, when viewed in the future, could be fully understood.
+
+**What solutions can you think of? What advice would have been useful to Dr Hair at the beginning of their project?**

@@ -8,6 +8,8 @@ project:
     - case-study-1-challenges.qmd
     - case-study-1-suggestions.qmd
     - case-study-2.qmd
+    - case-study-3.qmd
+    - case-study-4.qmd
 website:
   title: "Case studies for Open Access sessions"
   repo-url: https://nicki-clarkson.github.io/Case-studies/
@@ -28,6 +30,10 @@ website:
         text: "Case study 1: suggestions to overcome challenges"
       - href: case-study-2.qmd
         text: "Case study 2"
+      - href: case-study-3.qmd
+        text: "Case study 3"
+      - href: case-study-4.qmd
+        text: "Case study 4"
   page-footer: "Created by the University of Southampton Library with a CC0 licence"
 format:
   html:

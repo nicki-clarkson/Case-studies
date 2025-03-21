@@ -1,0 +1,23 @@
+# Case Study 3: "Stride City" - A Research Council Funded Exergame for Public Health {#sec-cs3}
+
+**Project Overview:**
+
+Researchers at the University of Wisdom received a Research Council grant to develop "Stride City," an exergame designed to promote physical activity, specifically walking, among sedentary adults. The game uses gamification principles and personalised feedback to encourage players to increase their daily step count. "Stride City" was initially released as a mobile app for iOS and Android platforms, accompanied by a website providing information about the research and game mechanics.
+
+**Game Mechanics:**
+
+-   **Virtual City Building:** Players build and develop a virtual city by accumulating steps in real life.
+
+-   **Personalised Challenges:** The game provides tailored challenges based on individual step counts and activity levels.
+
+-   **Social Features:** Players can connect with friends and family to compete and collaborate in walking challenges.
+
+-   **Data Visualisation:** The game tracks and visualises players' step count, distance travelled, and (optionally) estimated calorie expenditure.
+
+-   **Educational Content:** The game includes educational messages on the health benefits of walking. 
+
+**The Open Access Challenge:**
+
+While "Stride City" successfully engaged its initial user base and demonstrated promising results in increasing physical activity, ensuring its long-term open access and sustainability presented several challenges.
+
+Next section: [Case study 3](case-study-4.qmd#sec-cs4)

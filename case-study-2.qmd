@@ -19,3 +19,5 @@ The report was not suitable for publication as a journal article for the followi
 -   Timeliness of policy recommendations: journals have long peer-review cycles, whereas this government report needed to influence policy in real time.
 
 **What challenges can you think of in making the report open access? How could these be addressed?**
+
+Next section: [Case study 3](case-study-3.qmd#sec-cs3)
