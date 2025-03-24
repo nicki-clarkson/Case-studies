@@ -20,4 +20,4 @@ Researchers at the University of Wisdom received a Research Council grant to dev
 
 While "Stride City" successfully engaged its initial user base and demonstrated promising results in increasing physical activity, ensuring its long-term open access and sustainability presented several challenges.
 
-Next section: [Case study 3](case-study-4.qmd#sec-cs4)
+Next section: [Case study 4](case-study-4.qmd#sec-cs4)

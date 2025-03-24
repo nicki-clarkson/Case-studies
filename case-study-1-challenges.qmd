@@ -34,4 +34,4 @@
 
 -   The potential for misinterpretation or misuse of historical data was a concern.
 
-Next section: [Case study 1: Suggestions for Overcoming Challenges](case-study-1-outline.qmd#sec-cs1suggestions)
+Next section: [Case study 1: Suggestions for overcoming challenges](case-study-1-suggestions.qmd#sec-cs1suggestions)

@@ -7,6 +7,7 @@ project:
     - case-study-1-outline.qmd
     - case-study-1-challenges.qmd
     - case-study-1-suggestions.qmd
+    - case-study-1-metadata.qmd
     - case-study-2.qmd
     - case-study-3.qmd
     - case-study-4.qmd
@@ -29,6 +30,8 @@ website:
         text: "Case study 1: open access challenges"
       - href: case-study-1-suggestions.qmd
         text: "Case study 1: suggestions to overcome challenges"
+      - href: case-study-1-metadata.qmd
+        text: "Case study 1: metadata suggestions"
       - href: case-study-2.qmd
         text: "Case study 2"
       - href: case-study-3.qmd

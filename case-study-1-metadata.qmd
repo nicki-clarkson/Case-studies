@@ -1,6 +1,4 @@
----
-title: "Case study 1: metadata suggestions"
----
+# **Case study 1: Metadata suggestions** {#sec-cs1metadata}
 
 ### **1. General Metadata**
 
@@ -95,3 +93,5 @@ title: "Case study 1: metadata suggestions"
 -   **Access Information:** Public, restricted, or institution-only
 
 -   **Rights & Licensing:** Terms of use and reproduction permissions
+
+Next section: [Case study 2](case-study-1-outline.qmd#sec-cs2)

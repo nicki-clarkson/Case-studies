@@ -28,4 +28,4 @@
 
 -   Ensure the metadata provides all the context required for users to understand and contextualise your data.
 
-Next section: [Case study 2](case-study-2.qmd#sec-cs2)
+Next section: [Case study 1: metadata suggestions](case-study-1-metadata.qmd#sec-cs1metadata)
